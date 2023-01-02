@@ -17,5 +17,5 @@ def nitroGenerator(amount):
         print(fully)
         x=x+1
 
-print("Write the amount of codes you want generated in the functions parameter. Must be a int")
+#"Write the amount of codes you want generated in the functions parameter. Must be a int"
 nitroGenerator(5)
