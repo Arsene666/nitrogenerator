@@ -1,7 +1,6 @@
 import time
 import random 
 import string
-import pyautogui
 
 def nitroGenerator(amount):
     x=0
